@@ -1,7 +1,9 @@
 # Supervised Machine Learning Project
 
 ## Project Overview
-This project demonstrates different Supervised Machine Learning algorithms for both Regression and Classification problems. It is organized in two parts: **Part 1 — Concepts** (bias-variance tradeoff, overfitting/underfitting, cross validation, hyperparameter tuning, performance metrics) and **Part 2 — Case Study** (full regression and classification pipelines on real datasets).
+This project demonstrates different Supervised Machine Learning algorithms for both Regression and Classification problems. It is organized in two parts:
+**Part 1 — Concepts** (bias-variance tradeoff, overfitting/underfitting, cross validation, hyperparameter tuning, performance metrics) and
+**Part 2 — Case Study** (full regression and classification pipelines on real datasets).
 
 ## Datasets
 
